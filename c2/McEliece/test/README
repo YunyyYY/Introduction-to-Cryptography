@@ -1,0 +1,5 @@
+Implement of extremely simple McEliece cryptosystem.
+Use (7, 4)-hamming code.
+
+Reference:
+https://en.wikipedia.org/wiki/McEliece_cryptosystem
